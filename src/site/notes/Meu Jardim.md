@@ -4,4 +4,4 @@
 
 
 Uma reunião de notas e pensamentos que ocorrem ao longo dos dias.
-Essa é a pagina principal, e só serve pra ter algo pra mostrar no começo.
+Essa é a pagina principal para qual todas as estruturas do meu jardim se conectam e compõem esse acervo de ideias.
