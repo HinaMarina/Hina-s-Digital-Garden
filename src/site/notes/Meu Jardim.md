@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meu-jardim/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/meu-jardim/","tags":["gardenEntry"]}
 ---
 
 
