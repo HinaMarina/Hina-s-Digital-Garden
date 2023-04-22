@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/midia-consumida/ways-of-seeing-john-berger/","noteIcon":""}
+{"dg-publish":true,"permalink":"/midia-consumida/ways-of-seeing-john-berger/"}
 ---
 
 Hoje vimos a série documental Ways of Seeing do John Berger na live do Henrique.
