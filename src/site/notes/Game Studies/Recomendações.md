@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-studies/recomendacoes/","noteIcon":""}
+{"dg-publish":true,"permalink":"/game-studies/recomendacoes/"}
 ---
 
 
