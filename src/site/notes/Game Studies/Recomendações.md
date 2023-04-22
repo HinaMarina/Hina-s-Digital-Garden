@@ -3,6 +3,8 @@
 ---
 
 
+
+![[Final 10.mp4]]
 História da arte para videogames - Lana Polansky
 **https://rhizome.org/editorial/2016/aug/03/an-art-history-for-videogames/
 
