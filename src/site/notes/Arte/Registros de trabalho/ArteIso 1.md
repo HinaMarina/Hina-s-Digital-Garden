@@ -15,3 +15,5 @@ Ainda no fim do dia 25/04/23, desenvolvi um sketch do cenário no papel e finalm
 3 horas no dia 27/04/23 ~ Coletando cores pra montar a base pra uma paleta funcional e iniciando o sketch em cor das estruturas pra ver se a construção tá no caminho que queremos.
 
 5 horas de trabalho no dia 27/04/23 ~ Polindo e montando a estrutura da casa da protagonista. O resultado está finalmente indo prum caminho que parece tátil, to feliz :)
+
+6 horas de trabalho no dia 02/05/23 ~ Fazendo alguns objetos pra completar o design da casinha, polindo algumas formas, etc.
