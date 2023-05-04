@@ -17,3 +17,5 @@ Ainda no fim do dia 25/04/23, desenvolvi um sketch do cenário no papel e finalm
 5 horas de trabalho no dia 27/04/23 ~ Polindo e montando a estrutura da casa da protagonista. O resultado está finalmente indo prum caminho que parece tátil, to feliz :)
 
 6 horas de trabalho no dia 02/05/23 ~ Fazendo alguns objetos pra completar o design da casinha, polindo algumas formas, etc.
+
+3 horas de trabalho no dia 03/05/23 ~ Começando o design e as estruturas da segunda casa.
